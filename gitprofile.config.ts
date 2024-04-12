@@ -64,12 +64,8 @@ const CONFIG = {
       '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'Asset Protection',
-    'Loss Prevention',
-    'Risk Management',
-    'Safety Training',
-    'Investigations',
-    'Forensic Interviewing',
+    'T-SQL',
+    'Python',
   ],
   experiences: [
     {
