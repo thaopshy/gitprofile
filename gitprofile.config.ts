@@ -85,7 +85,7 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Tony Haopshy',
-    description: 'Hi, I am Tony, a Management Information Systems major at East Carolina University. I am new to this, but created this portfolio of projects completed in a Telecommunications and Networking class I took in the spring of 2024. Please check out my work and feel free to connect with me on LinkedIn. Thanks!',
+    description: '',
     imageURL: '',
   },
   social: {
@@ -218,13 +218,13 @@ const CONFIG = {
 
     // Custom theme, applied to `procyon` theme
     customTheme: {
-      primary: '#fc055b',
-      secondary: '#219aaf',
+      primary: '#592A8A',
+      secondary: '#FEC923',
       accent: '#e8d03a',
       neutral: '#2A2730',
       'base-100': '#E3E3ED',
-      '--rounded-box': '3rem',
-      '--rounded-btn': '3rem',
+      '--rounded-box': '2rem',
+      '--rounded-btn': '2rem',
     },
   },
 
