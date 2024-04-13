@@ -229,7 +229,10 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a8eeda28-f76b-4d97-a047-60820a486405" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  footer: `
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a8eeda28-f76b-4d97-a047-60820a486405" data-share-badge-host="https://www.credly.com"></div>
+    <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  `,
 
   enablePWA: true,
 };
