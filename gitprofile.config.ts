@@ -80,6 +80,22 @@ const CONFIG = {
             '',
           link: 'https://www.dropbox.com/scl/fi/fei5wskzl4g1vsqunc39h/6.-Network-Analysis-Group-Project.pptx?rlkey=v9u6kvul36c2943gjsoq2m27v&dl=0',
         },
+        {
+          title: 'Introduction to Packet Tracer,
+          description:
+            'Badge earned from taking and completing Cisco Packet Tracer - Introductory Course',
+          imageUrl:
+            'https://images.credly.com/size/110x110/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png',
+          link: 'https://www.credly.com/badges/a8eeda28-f76b-4d97-a047-60820a486405/public_url',
+        },
+        {
+          title: '(ISC)2 CC Candidate',
+          description:
+            'I completed the ISC2 CC - Cybersecurity course and am preparing to take a seated exam for the certification',
+          imageUrl:
+            'https://images.credly.com/size/340x340/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png',
+          link: 'https://www.credly.com/badges/272967ad-8a7d-46bf-8384-36a202abe8c6/public_url',
+        },
       ],
     },
   },
@@ -229,10 +245,7 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a8eeda28-f76b-4d97-a047-60820a486405" data-share-badge-host="https://www.credly.com"></div>
-    <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  `,
+  footer: ``,
 
   enablePWA: true,
 };
