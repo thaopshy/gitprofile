@@ -73,7 +73,7 @@ const CONFIG = {
           link: 'https://www.dropbox.com/scl/fi/lyhllgmn8blr604jl36ve/5.-Home-Network-Diagram-PPT-Tony-Haopshy.pptx?rlkey=f1212wkuzu3io64v9zw1zw64o&dl=0',
         },
                 {
-          title: 'Final Project presentation in an MIS/Networked Systems course at ECU',
+          title: '6. Final Project presentation in an MIS/Networked Systems course at ECU',
           description:
             'This was a group project, originally narrated by myself and five group members. I have uploaded the presentation only - as we make references to the business name - to protect the identity of the business I have removed references in the PPT and chosen not to upload the narrated version, as the project centered around assessing vulnerabilities to a real business network.',
           imageUrl:
@@ -85,7 +85,7 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Tony Haopshy',
-    description: '',
+    description: 'Hi, I am Tony, a Management Information Systems major at East Carolina University. I am new to this, but created this portfolio of projects completed in a Telecommunications and Networking class I took in the spring of 2024. Please check out my work and feel free to connect with me on LinkedIn. Thanks!',
     imageURL: '',
   },
   social: {
@@ -139,7 +139,7 @@ const CONFIG = {
       authors: 'Tony Haopshy',
       link: 'https://thaopshy.wordpress.com/2024/02/16/my-first-tech-webinar/',
       description:
-        'As a part of a Telecommunications and Networked Systems class I’m taking at East Carolina University, students were asked to blog about an in-person networking event related to a professional association. The assignment due date lined up perfectly with my attendance at this year’s RLPSA conference, hosted in Las Vegas, NV!',
+        'As a part of a Telecommunications and Networked Systems class I’m taking at East Carolina University, students were asked to blog about an in-person networking event related to a professional association. The assignment due date lined up perfectly with my attendance at this year’s RLPSA conference, hosted in Las Vegas, NV! ... CLICK TO READ MORE ON MY WORDPRESS PAGE!',
     },
     {
       title: 'Retail LP and Security Association (RLPSA) Conference 2024!',
@@ -148,7 +148,7 @@ const CONFIG = {
       authors: 'Tony Haopshy',
       link: 'https://thaopshy.wordpress.com/2024/04/05/retail-lp-and-security-association-rlpsa-conference-2024/',
       description:
-        'When I entered an MIS (or, Management Information Systems) program at East Carolina University, I found myself experiencing a whole new world of information outside of my comfort zone. My chosen craft has little to do with technology, or information systems. Yet, I have always been drawn to the the hardware and systems that make businesses successful, bring people together, and transform our world.',
+        'When I entered an MIS (or, Management Information Systems) program at East Carolina University, I found myself experiencing a whole new world of information outside of my comfort zone. My chosen craft has little to do with technology, or information systems. Yet, I have always been drawn to the the hardware and systems that make businesses successful, bring people together, and transform our world.  ... CLICK TO READ MORE ON MY WORDPRESS PAGE!',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
