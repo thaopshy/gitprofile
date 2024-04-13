@@ -166,11 +166,11 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'procyon',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: false,
+    disableSwitch: true,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
@@ -220,9 +220,9 @@ const CONFIG = {
     customTheme: {
       primary: '#592A8A',
       secondary: '#FEC923',
-      accent: '#e8d03a',
-      neutral: '#2A2730',
-      'base-100': '#E3E3ED',
+      accent: '#41215E',
+      neutral: '#6C6D68',
+      'base-100': '#6C6D68',
       '--rounded-box': '2rem',
       '--rounded-btn': '2rem',
     },
