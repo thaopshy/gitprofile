@@ -85,24 +85,24 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Introduction to Packet Tracer',
+      body: '',
+      year: 'February 2024',
+      link: '',
+    },
+    {
+      name: 'ISC2 Candidate',
+      body: '',
+      year: 'March 2024',
+      link: '',
     },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'East Carolina University',
+      degree: 'Bachelor of Business Administration, Management Information Systems',
+      from: '2023',
+      to: '2025',
     },
   ],
   publications: [
