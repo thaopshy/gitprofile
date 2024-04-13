@@ -221,7 +221,7 @@ const CONFIG = {
       primary: '#592A8A',
       secondary: '#FEC923',
       accent: '#41215E',
-      neutral: '#6C6D68',
+      neutral: '#41215E',
       'base-100': '#6C6D68',
       '--rounded-box': '2rem',
       '--rounded-btn': '2rem',
