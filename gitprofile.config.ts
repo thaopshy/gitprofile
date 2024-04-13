@@ -33,20 +33,52 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: '1. Professional Statement and Pitch Video',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'My "Elevator" Pitch Video!',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            '',
+          link: 'https://www.dropbox.com/scl/fi/7xfl08zm1hvo315e123qg/1.-Pitch-Statement.mp4?rlkey=16r0f9pipdb6yvxpbqebafq31&dl=0',
         },
         {
-          title: 'Project Name',
+          title: '2. Conduct a Security Audit',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Mock IT audit for a fictional company to practice stakeholder memorandum writing.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            '',
+          link: 'https://www.dropbox.com/scl/fi/h3s0qak4mph3xwvgouxpv/2.-Stakeholder-Memorandum-THaopshy.docx?rlkey=mh8pzd7r4tff8g1lirxsuy6sy&dl=0',
+        },
+                {
+          title: '3. Use the NIST Cybersecurity Framework to Respond to a Security Incident',
+          description:
+            'Using the NIST framework, I created a Vulnerability Assessment Report for a fictional company.',
+          imageUrl:
+            '',
+          link: 'https://www.dropbox.com/scl/fi/q2ydlp5pfclsuzptmc2pt/3.-Vulnerability-assessment-report.docx?rlkey=2ag6o898v7zyw30wa6q89w9bh&dl=0',
+        },
+                {
+          title: '4. Use Linux Commands to Manage File Permissions',
+          description:
+            'Using Kali Linux running in a VM, I practiced User Management, File Operations, Permissions, Process Management, and System Info Retrieval.',
+          imageUrl:
+            '',
+          link: 'https://www.dropbox.com/scl/fi/a9r92bqkf3idh7n8t6uus/4.-Linux_Activity_Tony_Haopshy.docx?rlkey=u1vjhz9r4g0pnf0bsz1rk8auk&dl=0',
+        },
+                {
+          title: '5. Narrated Home Network & Heatmap Presentation',
+          description:
+            'Powerpoint Presentation with voiceover; Self-review of home network to highlight use of Packet Tracer, creation of logical diagrams, and heatmapping of WiFi coverage.',
+          imageUrl:
+            '',
+          link: 'https://www.dropbox.com/scl/fi/lyhllgmn8blr604jl36ve/5.-Home-Network-Diagram-PPT-Tony-Haopshy.pptx?rlkey=f1212wkuzu3io64v9zw1zw64o&dl=0',
+        },
+                {
+          title: 'Final Project presentation in an MIS/Networked Systems course at ECU',
+          description:
+            'This was a group project, originally narrated by myself and five group members. I have uploaded the presentation only - as we make references to the business name - to protect the identity of the business I have removed references in the PPT and chosen not to upload the narrated version, as the project centered around assessing vulnerabilities to a real business network.',
+          imageUrl:
+            '',
+          link: 'https://www.dropbox.com/scl/fi/fei5wskzl4g1vsqunc39h/6.-Network-Analysis-Group-Project.pptx?rlkey=v9u6kvul36c2943gjsoq2m27v&dl=0',
         },
       ],
     },
@@ -64,38 +96,32 @@ const CONFIG = {
       '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'SQL',
+    'T-SQL',
     'Python',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: '',
+      position: '',
+      from: '',
+      to: '',
+      companyLink: '',
     },
   ],
   certifications: [
-    {
-      name: 'Introduction to Packet Tracer',
-      body: '',
-      year: 'February 2024',
-      link: '',
-    },
     {
       name: 'ISC2 Candidate',
       body: '',
       year: 'March 2024',
       link: '',
     },
+    {
+      name: 'Introduction to Packet Tracer',
+      body: '',
+      year: 'February 2024',
+      link: '',
+    },
+
   ],
   educations: [
     {
