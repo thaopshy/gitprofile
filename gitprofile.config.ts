@@ -107,28 +107,28 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Publication Title',
-      conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      title: 'My First Tech Webinar',
+      conferenceName: 'Tech Edu Journey',
+      journalName: '',
+      authors: 'Tony Haopshy',
+      link: 'https://thaopshy.wordpress.com/2024/02/16/my-first-tech-webinar/',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'As a part of a Telecommunications and Networked Systems class I’m taking at East Carolina University, students were asked to blog about an in-person networking event related to a professional association. The assignment due date lined up perfectly with my attendance at this year’s RLPSA conference, hosted in Las Vegas, NV!',
     },
     {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
+      title: 'Retail LP and Security Association (RLPSA) Conference 2024!',
+      conferenceName: 'Tech Edu Journey',
       journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      authors: 'Tony Haopshy',
+      link: 'https://thaopshy.wordpress.com/2024/04/05/retail-lp-and-security-association-rlpsa-conference-2024/',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'When I entered an MIS (or, Management Information Systems) program at East Carolina University, I found myself experiencing a whole new world of information outside of my comfort zone. My chosen craft has little to do with technology, or information systems. Yet, I have always been drawn to the the hardware and systems that make businesses successful, bring people together, and transform our world.',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: '', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
