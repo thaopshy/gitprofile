@@ -81,7 +81,7 @@ const CONFIG = {
           link: 'https://www.dropbox.com/scl/fi/fei5wskzl4g1vsqunc39h/6.-Network-Analysis-Group-Project.pptx?rlkey=v9u6kvul36c2943gjsoq2m27v&dl=0',
         },
         {
-          title: 'Introduction to Packet Tracer,
+          title: 'Introduction to Packet Tracer',
           description:
             'Badge earned from taking and completing Cisco Packet Tracer - Introductory Course',
           imageUrl:
