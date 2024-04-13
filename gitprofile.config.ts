@@ -222,18 +222,14 @@ const CONFIG = {
       secondary: '#FEC923',
       accent: '#41215E',
       neutral: '#41215E',
-      'base-100': '#6C6D68',
+      'base-100': '#E3E3ED',
       '--rounded-box': '2rem',
       '--rounded-btn': '2rem',
     },
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+  footer: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a8eeda28-f76b-4d97-a047-60820a486405" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
   enablePWA: true,
 };
